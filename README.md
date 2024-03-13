@@ -1,4 +1,4 @@
-# PROJET IZLY
+# PROJET YZLY
 
 Présentation du Projet
 Ce projet est conçu du cadre de l'UE Projet Base de Données/Réseau.
